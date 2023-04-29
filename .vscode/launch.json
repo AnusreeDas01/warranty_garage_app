@@ -5,21 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Warranty_Garage_App-second",
-            "cwd": "Warranty_Garage_App-second",
+            "name": "warranty_garage",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "Warranty_Garage_App-second (profile mode)",
-            "cwd": "Warranty_Garage_App-second",
+            "name": "warranty_garage (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "Warranty_Garage_App-second (release mode)",
-            "cwd": "Warranty_Garage_App-second",
+            "name": "warranty_garage (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
